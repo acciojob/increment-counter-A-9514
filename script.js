@@ -18,4 +18,4 @@ counters.forEach( (counter)=>{
     } 
 
     updateCounter()
-})
+});
